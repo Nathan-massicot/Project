@@ -5,5 +5,11 @@ description = "First project of NLP class on tokenizer"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "matplotlib-inline>=0.2.1",
     "nltk>=3.9.3",
+    "numpy",
+    "sentencepiece>=0.2.1",
+    "spicy>=0.16.0",
 ]

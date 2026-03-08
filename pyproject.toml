@@ -3,7 +3,7 @@ name = "project_adv_NLP"
 version = "0.1.0"
 description = "First project of NLP class on tokenizer"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
